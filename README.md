@@ -1,4 +1,8 @@
 # Amaizing Recipes
+
+<img src="http://i.imgur.com/LPZDKKG.png" width="300"> <img src="http://i.imgur.com/rfEKXMv.png" width="300">
+<img src="http://i.imgur.com/EbH5yTx.png" width="300"> <img src="http://i.imgur.com/Csu4gPb.png" width="300">
+
 # Summary
  Created by the Amaizing Unicorn Team/Team 9, we created the Amaizing Recipes App for users to enter
  in their list of ingredients and then search for a recipe to make. Features the ability to swipe to search:
